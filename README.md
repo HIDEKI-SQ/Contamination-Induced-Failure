@@ -38,10 +38,6 @@ Contamination-Induced-Failure/
 ├── figures/
 │   ├── Figure1_n100.pdf
 │   └── FigureS1_prompt_sensitivity.pdf
-├── paper/
-│   ├── main.tex
-│   ├── supplementary.tex
-│   └── cover_letter.pdf
 ├── LICENSE
 └── README.md
 ```
