@@ -1,0 +1,166 @@
+% A3_CIF_supplementary.tex
+% Supplementary Information for "Backfire Phase Structure in Contaminated Chain-of-Thought Reasoning"
+% For Physical Review X Intelligence (PRX-I)
+
+\documentclass[aps,prx,reprint,twocolumn,superscriptaddress]{revtex4-2}
+
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{booktabs}
+
+\begin{document}
+
+\title{Supplementary Information for:\\Backfire Phase Structure in Contaminated Chain-of-Thought Reasoning}
+
+\author{HIDEKI}
+\affiliation{Independent Researcher, Japan}
+
+\date{\today}
+
+\maketitle
+
+%% ============================================================
+%% S1: PROMPT SENSITIVITY
+%% ============================================================
+
+\section{Prompt-Induced Suppression of Chain-of-Thought Reasoning}
+
+In the main experiment, the direct baseline condition uses a JSON-only output prompt (e.g., ``Solve this math problem. Output ONLY: \{"final": $\langle$number$\rangle$\}''). This format suppresses externalized chain-of-thought reasoning, requiring models to perform any reasoning internally before producing a final answer.
+
+We observed that GPT-4o-mini exhibited unexpectedly low baseline accuracy on GSM8K problems at indices 50--99 (46\%) compared to indices 0--49 (94\%). To diagnose whether this reflected model instability or prompt-induced reasoning suppression, we conducted a controlled comparison using two prompt formats on the same problem set (indices 50--99):
+
+\begin{itemize}
+\item \textbf{JSON-only prompt:} ``Solve this math problem. Output ONLY: \{"final": $\langle$number$\rangle$\}'' (no explicit reasoning permitted)
+\item \textbf{CoT-permissive prompt:} ``Solve step by step, then give your final answer as JSON: \{"final": $\langle$number$\rangle$\}'' (explicit reasoning encouraged)
+\end{itemize}
+
+Figure~\ref{fig:s1} summarizes the results. Under the CoT-permissive prompt, GPT-4o-mini accuracy recovered from 46\% to 88\% (+42 percentage points), confirming that the reduced baseline reflects prompt-induced suppression of reasoning rather than an inability to solve the problems. This effect was reproducible: two independent runs under the JSON-only prompt yielded 44\% and 46\%, while two runs under the CoT-permissive prompt both yielded 88\%.
+
+Importantly, frontier models (Claude Sonnet~4: 100\%, Claude Haiku~3.5: 98\%) maintained high accuracy under the JSON-only constraint on the same problem set. This differential sensitivity is itself consistent with the epistemic robustness hypothesis proposed in the main text: models with stronger internal reasoning capacity can maintain performance even when externalized chain-of-thought is suppressed.
+
+For the CIF analysis, this effect reduces the eligible sample size for GPT-4o-mini on GSM8K (from $\sim$94 to $\sim$70 eligible problems at $n=100$) but does not inflate CIF rates, since CIF is computed conditionally on baseline correctness (Eq.~1 in the main text). The qualitative phase ordering---immune, transition, vulnerable---is unaffected.
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=\textwidth]{FigureS1_prompt_sensitivity.pdf}
+\caption{\textbf{Prompt-induced suppression of chain-of-thought reasoning.}
+\textbf{(A)}~Baseline accuracy on GSM8K (indices 50--99) under JSON-only vs.\ CoT-permissive prompts. All five models are shown under the JSON-only condition; only GPT-4o-mini was tested under the CoT-permissive condition (orange bar), recovering from 46\% to 88\%. Frontier models (Sonnet~4, Haiku~3.5) maintain $\geq$98\% accuracy under JSON-only constraints.
+\textbf{(B)}~Reproducibility check for GPT-4o-mini on GSM8K. Two independent runs under JSON-only prompts yield 44\% and 46\% (blue bars); two runs under CoT-permissive prompts yield 88\% each (orange bars), confirming that the effect is prompt-induced and reproducible.}
+\label{fig:s1}
+\end{figure*}
+
+
+%% ============================================================
+%% S2: DETAILED CIF DATA TABLE
+%% ============================================================
+
+\section{Merged CIF Data ($n=100$)}
+
+Table~\ref{tab:cif} reports peak CIF rates with 95\% Wilson confidence intervals and eligible sample sizes for all 15 model-domain cells, merged across two independent experimental rounds (E1/E1b at indices 0--49 and E1aug at indices 50--99).
+
+\begin{table*}[t]
+\centering
+\caption{\textbf{Peak CIF rates with 95\% confidence intervals ($n=100$).} For each model-domain cell, we report the peak CIF across $\lambda \in \{0.0, 0.4, 0.8, 1.0\}$, the 95\% Wilson CI, the number of eligible problems ($n_\mathrm{elig}$: problems correct at baseline), and the merged baseline accuracy. Cells in the immune regime ($<$10\%) are shown in \textbf{bold}.}
+\label{tab:cif}
+\begin{tabular}{llccccc}
+\toprule
+Model & Domain & Baseline & $n_\mathrm{elig}$ & Peak CIF & 95\% CI & Regime \\
+\midrule
+Claude Sonnet 4 & GSM8K & 99\% & 99 & \textbf{3.0\%} & [1.0\%, 8.5\%] & Immune \\
+Claude Sonnet 4 & CSQA & 91\% & 91 & \textbf{6.6\%} & [3.1\%, 13.6\%] & Immune \\
+Claude Sonnet 4 & BoolQ & 89\% & 89 & \textbf{1.1\%} & [0.2\%, 6.1\%] & Immune \\
+\midrule
+GPT-4o & GSM8K & 93\% & 93 & \textbf{2.2\%} & [0.6\%, 7.5\%] & Immune \\
+GPT-4o & CSQA & 85\% & 85 & 17.6\% & [11.0\%, 27.1\%] & Transition \\
+GPT-4o & BoolQ & 94\% & 94 & 14.9\% & [9.1\%, 23.5\%] & Transition \\
+\midrule
+Claude Haiku 3.5 & GSM8K & 97\% & 97 & 16.5\% & [10.4\%, 25.1\%] & Transition \\
+Claude Haiku 3.5 & CSQA & 82\% & 82 & 14.6\% & [8.6\%, 23.9\%] & Transition \\
+Claude Haiku 3.5 & BoolQ & 92\% & 92 & 15.2\% & [9.3\%, 23.9\%] & Transition \\
+\midrule
+GPT-4o-mini & GSM8K & 70\%$^\dagger$ & 70 & 14.3\% & [7.9\%, 24.3\%] & Transition \\
+GPT-4o-mini & CSQA & 80\% & 80 & 33.8\% & [24.3\%, 44.6\%] & Transition \\
+GPT-4o-mini & BoolQ & 95\% & 95 & 32.6\% & [24.0\%, 42.6\%] & Transition \\
+\midrule
+GPT-3.5 & GSM8K & 33\%$^\dagger$ & 33 & 15.2\% & [6.7\%, 30.9\%] & Transition \\
+GPT-3.5 & CSQA & 76\% & 76 & 85.5\% & [75.9\%, 91.7\%] & Vulnerable \\
+GPT-3.5 & BoolQ & 85\% & 85 & 63.5\% & [52.9\%, 73.0\%] & Vulnerable \\
+\bottomrule
+\multicolumn{7}{l}{\footnotesize $^\dagger$ Reduced baseline due to prompt-induced CoT suppression on harder problems (see Sec.~I and Fig.~\ref{fig:s1}).}
+\end{tabular}
+\end{table*}
+
+
+%% ============================================================
+%% S3: COMPLIANCE BATTERY DETAILS
+%% ============================================================
+
+\section{Social Compliance Battery (E3) Details}
+
+Table~\ref{tab:e3} reports the full E3 compliance battery results for all five models. The battery was administered on GSM8K problems ($n=50$ per condition) and comprises three subtests:
+
+\begin{itemize}
+\item \textbf{Cue override:} The model first solves a problem correctly in the direct condition, then is presented with the same problem alongside an authoritative but incorrect answer. The override rate measures how often the model switches to the wrong answer.
+\item \textbf{Authority conflict:} The model is told that a named expert endorses a specific (wrong) answer. The wrong-choice rate measures susceptibility to authority appeals.
+\item \textbf{Instruction resistance:} The model is explicitly instructed to give a specific wrong answer. The follow rate measures compliance with direct wrong instructions.
+\end{itemize}
+
+The composite compliance index is computed as the weighted mean of these three rates ($w_\mathrm{cue}=0.5$, $w_\mathrm{auth}=0.25$, $w_\mathrm{instr}=0.25$), reflecting the relative importance of each dimension for the CIF context.
+
+\begin{table}[b]
+\centering
+\caption{\textbf{E3 social compliance battery results.} Cue override rate is the fraction of eligible problems (correct at baseline) where the model switched to the wrong answer. Authority and instruction rates are computed over all 50 problems.}
+\label{tab:e3}
+\begin{tabular}{lcccc}
+\toprule
+Model & Cue & Auth. & Instr. & Composite \\
+ & override & conflict & resist & index \\
+\midrule
+Claude Sonnet 4 & 0.88 & 0.00 & 0.00 & 0.29 \\
+GPT-4o & 0.50 & 0.00 & 0.00 & 0.17 \\
+Claude Haiku 3.5 & 0.33 & 0.00 & 0.00 & 0.11 \\
+GPT-4o-mini & 0.15 & 0.00 & 0.00 & 0.05 \\
+GPT-3.5 & 1.00 & 0.16 & 0.02 & 0.39 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The key observation is that Sonnet~4 (cue override 0.88, composite 0.29) is among the most compliant models, yet shows the lowest CIF across all domains ($\leq$6.6\%). GPT-3.5 has the highest composite index (0.39) and also the highest CIF, but this correlation is broken by GPT-4o-mini (lowest composite at 0.05, yet CIF up to 34\%) and Sonnet~4 (second-highest composite, yet lowest CIF). The rank ordering between compliance and CIF is inconsistent, supporting the dissociation reported in the main text.
+
+
+%% ============================================================
+%% S4: LAMBDA SWEEP DETAILS
+%% ============================================================
+
+\section{CIF as a Function of Contamination Level}
+
+Table~\ref{tab:lambda} reports CIF rates at each $\lambda$ level for selected model-domain combinations that illustrate the three response patterns described in the main text: flat (immune), threshold (vulnerable), and non-monotonic (mid-tier on high-verifiability domains).
+
+\begin{table}[b]
+\centering
+\caption{\textbf{CIF rates by contamination level $\lambda$.} Selected cells illustrating the three response patterns. Values are from the merged $n=100$ dataset.}
+\label{tab:lambda}
+\begin{tabular}{llcccc}
+\toprule
+Model & Domain & $\lambda$=0 & 0.4 & 0.8 & 1.0 \\
+\midrule
+\multicolumn{6}{l}{\emph{Flat (immune)}} \\
+Sonnet 4 & GSM8K & 3.0\% & 3.0\% & 2.0\% & 2.0\% \\
+Sonnet 4 & BoolQ & 0.0\% & 1.1\% & 0.0\% & 0.0\% \\
+\midrule
+\multicolumn{6}{l}{\emph{Threshold (vulnerable)}} \\
+GPT-3.5 & CSQA & 5.3\% & 63.2\% & 79.0\% & 81.6\% \\
+GPT-3.5 & BoolQ & 55.3\% & 63.5\% & 59.3\% & 55.8\% \\
+\midrule
+\multicolumn{6}{l}{\emph{Non-monotonic (transition)}} \\
+GPT-4o-mini & GSM8K & 2.1\% & 14.3\% & 10.0\% & 11.4\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The threshold pattern (GPT-3.5 on CSQA) is particularly notable: CIF jumps from 5\% to 63\% between $\lambda=0$ and $\lambda=0.4$---a 12-fold increase when only 40\% of reasoning steps are corrupted. This sharp onset suggests that even partial contamination can trigger catastrophic failure in vulnerable model-domain cells, with practical implications for retrieval-augmented generation systems where partial contamination is the norm rather than the exception.
+
+
+\end{document}

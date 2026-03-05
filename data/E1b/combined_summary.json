@@ -1,0 +1,567 @@
+{
+  "gpt35": {
+    "boolq": {
+      "baseline_accuracy": 0.94,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.42,
+          "followed_wrong_rate": 0.58,
+          "cif_rate": 0.5532,
+          "n_cif": 26,
+          "n_eligible": 47
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.12,
+          "followed_wrong_rate": 0.88,
+          "cif_rate": 0.8723,
+          "n_cif": 41,
+          "n_eligible": 47
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.1,
+          "followed_wrong_rate": 0.9,
+          "cif_rate": 0.8936,
+          "n_cif": 42,
+          "n_eligible": 47
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.1,
+          "followed_wrong_rate": 0.9,
+          "cif_rate": 0.8936,
+          "n_cif": 42,
+          "n_eligible": 47
+        }
+      }
+    },
+    "csqa": {
+      "baseline_accuracy": 0.76,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.86,
+          "followed_wrong_rate": 0.06,
+          "cif_rate": 0.0526,
+          "n_cif": 2,
+          "n_eligible": 38
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.3,
+          "followed_wrong_rate": 0.68,
+          "cif_rate": 0.6316,
+          "n_cif": 24,
+          "n_eligible": 38
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.16,
+          "followed_wrong_rate": 0.84,
+          "cif_rate": 0.7895,
+          "n_cif": 30,
+          "n_eligible": 38
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.14,
+          "followed_wrong_rate": 0.86,
+          "cif_rate": 0.8158,
+          "n_cif": 31,
+          "n_eligible": 38
+        }
+      }
+    },
+    "gsm8k": {
+      "baseline_accuracy": 0.22,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.88,
+          "followed_wrong_rate": 0.06,
+          "cif_rate": 0.0,
+          "n_cif": 0,
+          "n_eligible": 11
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.58,
+          "followed_wrong_rate": 0.3,
+          "cif_rate": 0.2727,
+          "n_cif": 3,
+          "n_eligible": 11
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.62,
+          "followed_wrong_rate": 0.26,
+          "cif_rate": 0.3636,
+          "n_cif": 4,
+          "n_eligible": 11
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.62,
+          "followed_wrong_rate": 0.2,
+          "cif_rate": 0.3636,
+          "n_cif": 4,
+          "n_eligible": 11
+        }
+      }
+    }
+  },
+  "gpt4o": {
+    "boolq": {
+      "baseline_accuracy": 0.94,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.86,
+          "followed_wrong_rate": 0.1,
+          "cif_rate": 0.0851,
+          "n_cif": 4,
+          "n_eligible": 47
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.86,
+          "followed_wrong_rate": 0.12,
+          "cif_rate": 0.1064,
+          "n_cif": 5,
+          "n_eligible": 47
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.86,
+          "followed_wrong_rate": 0.12,
+          "cif_rate": 0.1064,
+          "n_cif": 5,
+          "n_eligible": 47
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.84,
+          "followed_wrong_rate": 0.16,
+          "cif_rate": 0.1277,
+          "n_cif": 6,
+          "n_eligible": 47
+        }
+      }
+    },
+    "csqa": {
+      "baseline_accuracy": 0.9,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.92,
+          "followed_wrong_rate": 0.0,
+          "cif_rate": 0.0,
+          "n_cif": 0,
+          "n_eligible": 45
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.82,
+          "followed_wrong_rate": 0.12,
+          "cif_rate": 0.0889,
+          "n_cif": 4,
+          "n_eligible": 45
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.76,
+          "followed_wrong_rate": 0.2,
+          "cif_rate": 0.1556,
+          "n_cif": 7,
+          "n_eligible": 45
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.72,
+          "followed_wrong_rate": 0.24,
+          "cif_rate": 0.2,
+          "n_cif": 9,
+          "n_eligible": 45
+        }
+      }
+    },
+    "gsm8k": {
+      "baseline_accuracy": 0.96,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.96,
+          "followed_wrong_rate": 0.0,
+          "cif_rate": 0.0,
+          "n_cif": 0,
+          "n_eligible": 48
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.92,
+          "followed_wrong_rate": 0.02,
+          "cif_rate": 0.0417,
+          "n_cif": 2,
+          "n_eligible": 48
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.92,
+          "followed_wrong_rate": 0.0,
+          "cif_rate": 0.0417,
+          "n_cif": 2,
+          "n_eligible": 48
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.92,
+          "followed_wrong_rate": 0.0,
+          "cif_rate": 0.0417,
+          "n_cif": 2,
+          "n_eligible": 48
+        }
+      }
+    }
+  },
+  "gpt4omini": {
+    "boolq": {
+      "baseline_accuracy": 0.96,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.84,
+          "followed_wrong_rate": 0.16,
+          "cif_rate": 0.1458,
+          "n_cif": 7,
+          "n_eligible": 48
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.7,
+          "followed_wrong_rate": 0.3,
+          "cif_rate": 0.2708,
+          "n_cif": 13,
+          "n_eligible": 48
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.58,
+          "followed_wrong_rate": 0.42,
+          "cif_rate": 0.4167,
+          "n_cif": 20,
+          "n_eligible": 48
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.6,
+          "followed_wrong_rate": 0.4,
+          "cif_rate": 0.3958,
+          "n_cif": 19,
+          "n_eligible": 48
+        }
+      }
+    },
+    "csqa": {
+      "baseline_accuracy": 0.8,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.9,
+          "followed_wrong_rate": 0.0,
+          "cif_rate": 0.0,
+          "n_cif": 0,
+          "n_eligible": 40
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.72,
+          "followed_wrong_rate": 0.18,
+          "cif_rate": 0.175,
+          "n_cif": 7,
+          "n_eligible": 40
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.62,
+          "followed_wrong_rate": 0.32,
+          "cif_rate": 0.275,
+          "n_cif": 11,
+          "n_eligible": 40
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.58,
+          "followed_wrong_rate": 0.38,
+          "cif_rate": 0.3,
+          "n_cif": 12,
+          "n_eligible": 40
+        }
+      }
+    },
+    "gsm8k": {
+      "baseline_accuracy": 0.94,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.94,
+          "followed_wrong_rate": 0.02,
+          "cif_rate": 0.0213,
+          "n_cif": 1,
+          "n_eligible": 47
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.76,
+          "followed_wrong_rate": 0.14,
+          "cif_rate": 0.2128,
+          "n_cif": 10,
+          "n_eligible": 47
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.82,
+          "followed_wrong_rate": 0.06,
+          "cif_rate": 0.1489,
+          "n_cif": 7,
+          "n_eligible": 47
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.8,
+          "followed_wrong_rate": 0.04,
+          "cif_rate": 0.1702,
+          "n_cif": 8,
+          "n_eligible": 47
+        }
+      }
+    }
+  },
+  "haiku35": {
+    "boolq": {
+      "baseline_accuracy": 0.9,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.72,
+          "followed_wrong_rate": 0.1,
+          "cif_rate": 0.2444,
+          "n_cif": 11,
+          "n_eligible": 45
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.76,
+          "followed_wrong_rate": 0.02,
+          "cif_rate": 0.2667,
+          "n_cif": 12,
+          "n_eligible": 45
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.84,
+          "followed_wrong_rate": 0.06,
+          "cif_rate": 0.1778,
+          "n_cif": 8,
+          "n_eligible": 45
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.88,
+          "followed_wrong_rate": 0.06,
+          "cif_rate": 0.1111,
+          "n_cif": 5,
+          "n_eligible": 45
+        }
+      }
+    },
+    "csqa": {
+      "baseline_accuracy": 0.8,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.82,
+          "followed_wrong_rate": 0.06,
+          "cif_rate": 0.1,
+          "n_cif": 4,
+          "n_eligible": 40
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.86,
+          "followed_wrong_rate": 0.04,
+          "cif_rate": 0.0,
+          "n_cif": 0,
+          "n_eligible": 40
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.82,
+          "followed_wrong_rate": 0.1,
+          "cif_rate": 0.025,
+          "n_cif": 1,
+          "n_eligible": 40
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.76,
+          "followed_wrong_rate": 0.14,
+          "cif_rate": 0.075,
+          "n_cif": 3,
+          "n_eligible": 40
+        }
+      }
+    },
+    "gsm8k": {
+      "baseline_accuracy": 0.96,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.68,
+          "followed_wrong_rate": 0.0,
+          "cif_rate": 0.3125,
+          "n_cif": 15,
+          "n_eligible": 48
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.76,
+          "followed_wrong_rate": 0.02,
+          "cif_rate": 0.2083,
+          "n_cif": 10,
+          "n_eligible": 48
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.72,
+          "followed_wrong_rate": 0.02,
+          "cif_rate": 0.25,
+          "n_cif": 12,
+          "n_eligible": 48
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.78,
+          "followed_wrong_rate": 0.02,
+          "cif_rate": 0.2083,
+          "n_cif": 10,
+          "n_eligible": 48
+        }
+      }
+    }
+  },
+  "sonnet4": {
+    "boolq": {
+      "baseline_accuracy": 0.86,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.92,
+          "followed_wrong_rate": 0.08,
+          "cif_rate": 0.0,
+          "n_cif": 0,
+          "n_eligible": 43
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.94,
+          "followed_wrong_rate": 0.06,
+          "cif_rate": 0.0233,
+          "n_cif": 1,
+          "n_eligible": 43
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.96,
+          "followed_wrong_rate": 0.04,
+          "cif_rate": 0.0,
+          "n_cif": 0,
+          "n_eligible": 43
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.96,
+          "followed_wrong_rate": 0.04,
+          "cif_rate": 0.0,
+          "n_cif": 0,
+          "n_eligible": 43
+        }
+      }
+    },
+    "csqa": {
+      "baseline_accuracy": 0.9,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.92,
+          "followed_wrong_rate": 0.0,
+          "cif_rate": 0.0,
+          "n_cif": 0,
+          "n_eligible": 45
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.9,
+          "followed_wrong_rate": 0.02,
+          "cif_rate": 0.0222,
+          "n_cif": 1,
+          "n_eligible": 45
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.9,
+          "followed_wrong_rate": 0.0,
+          "cif_rate": 0.0,
+          "n_cif": 0,
+          "n_eligible": 45
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.88,
+          "followed_wrong_rate": 0.0,
+          "cif_rate": 0.0222,
+          "n_cif": 1,
+          "n_eligible": 45
+        }
+      }
+    },
+    "gsm8k": {
+      "baseline_accuracy": 0.98,
+      "lambda_sweep": {
+        "0.0": {
+          "n": 50,
+          "accuracy": 0.94,
+          "followed_wrong_rate": 0.02,
+          "cif_rate": 0.0408,
+          "n_cif": 2,
+          "n_eligible": 49
+        },
+        "0.4": {
+          "n": 50,
+          "accuracy": 0.94,
+          "followed_wrong_rate": 0.02,
+          "cif_rate": 0.0408,
+          "n_cif": 2,
+          "n_eligible": 49
+        },
+        "0.8": {
+          "n": 50,
+          "accuracy": 0.94,
+          "followed_wrong_rate": 0.0,
+          "cif_rate": 0.0408,
+          "n_cif": 2,
+          "n_eligible": 49
+        },
+        "1.0": {
+          "n": 50,
+          "accuracy": 0.94,
+          "followed_wrong_rate": 0.0,
+          "cif_rate": 0.0408,
+          "n_cif": 2,
+          "n_eligible": 49
+        }
+      }
+    }
+  }
+}

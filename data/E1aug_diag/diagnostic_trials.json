@@ -1,0 +1,1058 @@
+{
+  "run1_50_99": [
+    {
+      "index": 50,
+      "correct_answer": 294.0,
+      "model_answer": 294.0,
+      "is_correct": true,
+      "raw": "To find out how much Lloyd makes on eggs per week, we can follow these steps:\n\n1. **Calculate the total number of eggs produced in a week:**\n   - Eggs produced per day = 252\n   - Days in a week = 7\n   - Total eggs per week = 252 eggs/day * 7 days/week = 1764 eggs/week\n\n2. **Convert the total number "
+    },
+    {
+      "index": 51,
+      "correct_answer": 5.0,
+      "model_answer": 5.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to determine how long it takes Tom to travel back after sailing from 1 PM to 4 PM.\n\n1. **Determine the distance traveled from 1 PM to 4 PM:**\n   - Time traveled = 4 PM - 1 PM = 3 hours\n   - Speed = 10 miles per hour\n   - Distance = Speed \u00d7 Time = 10 miles/hour \u00d7 3 hours"
+    },
+    {
+      "index": 52,
+      "correct_answer": 15.0,
+      "model_answer": 15.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will follow these steps:\n\n1. **Calculate the weight of the comic books Uriah removes**:\n   - Each comic book weighs 1/4 pound.\n   - If Uriah removes 30 comic books, the total weight removed from comic books is:\n     \\[\n     \\text{Weight from comic books} = 30 \\times \\frac{1}"
+    },
+    {
+      "index": 53,
+      "correct_answer": 40.0,
+      "model_answer": 40.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will calculate the revenue earned by the mechanic on both Thursday and Friday, and then find the difference between the two revenues.\n\n**Step 1: Calculate Thursday's Revenue**\n- Truck tires repaired: 6\n- Charge per truck tire: $60\n- Revenue from truck tires: \\( 6 \\times 60 ="
+    },
+    {
+      "index": 54,
+      "correct_answer": 40.0,
+      "model_answer": 40.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to calculate the total number of kittens the Doubtfire family has after considering the kittens from their house cats.\n\n1. The Doubtfire sisters have adopted 7 kittens.\n2. Patchy, the first house cat, has had thrice the number of adopted kittens:\n   - Number of kittens "
+    },
+    {
+      "index": 55,
+      "correct_answer": 14.0,
+      "model_answer": 14.0,
+      "is_correct": true,
+      "raw": "Step 1: Calculate the number of lollipops Jean has after eating 2.\n- Initial lollipops = 30\n- Lollipops eaten = 2\n- Remaining lollipops = 30 - 2 = 28\n\nStep 2: Determine how many bags Jean can fill with the remaining lollipops.\n- Each bag contains 2 lollipops.\n- Number of bags = Remaining lollipops /"
+    },
+    {
+      "index": 56,
+      "correct_answer": 3.0,
+      "model_answer": 3.0,
+      "is_correct": true,
+      "raw": "To determine how many times Peter can go to the movies, we first need to calculate the total cost for one trip to the movies, which includes the ticket and popcorn.\n\n1. Cost of a movie ticket: $7\n2. Cost of popcorn: $7\n3. Total cost for one trip to the movies: \n   \\[\n   7 + 7 = 14 \\text{ dollars}\n  "
+    },
+    {
+      "index": 57,
+      "correct_answer": 83.0,
+      "model_answer": 83.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to determine how many boxes can be added to the truck without exceeding the bridge's weight limit.\n\n1. **Identify the weight limit of the bridge**: \n   - The bridge can carry a maximum of 5000 pounds.\n\n2. **Determine the weight of the truck and driver**: \n   - The combi"
+    },
+    {
+      "index": 58,
+      "correct_answer": 57.0,
+      "model_answer": 57.0,
+      "is_correct": true,
+      "raw": "1. Start with the initial bill for groceries: $40.00.\n2. Calculate the 25% fee on the groceries:\n   - 25% of $40.00 = 0.25 * 40 = $10.00.\n3. Add the 25% fee to the initial bill:\n   - $40.00 + $10.00 = $50.00.\n4. Add the delivery fee of $3.00:\n   - $50.00 + $3.00 = $53.00.\n5. Add the tip of $4.00:\n  "
+    },
+    {
+      "index": 59,
+      "correct_answer": 187.0,
+      "model_answer": 187.0,
+      "is_correct": true,
+      "raw": "To find the total number of raspberries, we can break the problem down into two parts: the clusters of fruit and the individual fruit.\n\n1. **Calculate the total number of fruit in the clusters:**\n   - There are 6 clusters, and each cluster has 20 fruit.\n   - Total fruit in clusters = Number of clust"
+    },
+    {
+      "index": 60,
+      "correct_answer": 17.0,
+      "model_answer": 17.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will break it down step by step.\n\n1. **Total Oranges**: There are 25 oranges in total.\n2. **Bad Oranges**: There is 1 bad orange.\n3. **Unripe Oranges**: 20% of the total oranges are unripe. \n   - Calculation: 20% of 25 = 0.20 * 25 = 5 unripe oranges.\n4. **Sour Oranges**: The"
+    },
+    {
+      "index": 61,
+      "correct_answer": 1430.0,
+      "model_answer": 1430.0,
+      "is_correct": true,
+      "raw": "1. Calculate the total cost of the brooch materials and construction:\n   - Material cost: $500\n   - Jeweler cost: $800\n   - Total cost = Material cost + Jeweler cost = $500 + $800 = $1300\n\n2. Calculate the insurance cost:\n   - Insurance cost = 10% of total cost\n   - Insurance cost = 0.10 * $1300 = $"
+    },
+    {
+      "index": 62,
+      "correct_answer": 25000.0,
+      "model_answer": 50000.0,
+      "is_correct": false,
+      "raw": "To solve the problem, we need to determine Marcy's annual pension after she quits after 30 years of service.\n\n1. **Initial Pension**: Marcy's annual pension after 40 years is $50,000.\n\n2. **Entitlement After 20 Years**: After 20 years, Marcy becomes entitled to 5% of the value of the pension per yea"
+    },
+    {
+      "index": 63,
+      "correct_answer": 1596.0,
+      "model_answer": 1596.0,
+      "is_correct": true,
+      "raw": "1. Calculate the amount charged for the first half of the year (6 months):\n   - Monthly charge = $140\n   - Total for 6 months = 6 * $140 = $840\n\n2. Calculate the amount charged for the second half of the year (6 months) with a 10% discount:\n   - 10% of $140 = 0.10 * $140 = $14\n   - Discounted monthl"
+    },
+    {
+      "index": 64,
+      "correct_answer": 300.0,
+      "model_answer": 300.0,
+      "is_correct": true,
+      "raw": "To find out how many miles Sophia can drive on a single tank of gas, we can follow these steps:\n\n1. **Determine the miles per gallon (MPG)**:\n   - Sophia has traveled 100 miles and used 4 gallons of gas.\n   - MPG = Total miles traveled / Gallons used\n   - MPG = 100 miles / 4 gallons = 25 miles per g"
+    },
+    {
+      "index": 65,
+      "correct_answer": 36.0,
+      "model_answer": 36.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will break it down step by step.\n\n1. **Time spent watching TV in one session**: Jim spends 2 hours watching TV.\n2. **Time spent reading in one session**: He reads for half as long as he watches TV, which is:\n   \\[\n   \\text{Reading time} = \\frac{2 \\text{ hours}}{2} = 1 \\text{"
+    },
+    {
+      "index": 66,
+      "correct_answer": 48.0,
+      "model_answer": 48.0,
+      "is_correct": true,
+      "raw": "To find the total number of people sent by the four schools to the basketball tournament, we can break it down step by step:\n\n1. **Teams per School**: Each school has sent a girls' basketball team and a boys' basketball team. Therefore, each school has:\n   - 1 girls' team\n   - 1 boys' team\n\n   This "
+    },
+    {
+      "index": 67,
+      "correct_answer": 595.0,
+      "model_answer": 595.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will break it down step by step:\n\n1. **Diamonds**: The number of diamonds is given as 175.\n\n2. **Rubies**: The number of rubies is 35 fewer than the number of diamonds. \n   \\[\n   \\text{Rubies} = \\text{Diamonds} - 35 = 175 - 35 = 140\n   \\]\n\n3. **Emeralds**: The number of emer"
+    },
+    {
+      "index": 68,
+      "correct_answer": 36.0,
+      "model_answer": 36.0,
+      "is_correct": true,
+      "raw": "Step 1: Determine the number of boys.\n- Given that there are 60 girls and there are twice as many boys as girls:\n  Number of boys = 2 * Number of girls = 2 * 60 = 120 boys.\n\nStep 2: Calculate the total number of students.\n- Total number of students = Number of boys + Number of girls = 120 + 60 = 180"
+    },
+    {
+      "index": 69,
+      "correct_answer": 60.0,
+      "model_answer": 60.0,
+      "is_correct": true,
+      "raw": "To find out how much money Bailey started with, we can break down the problem step by step.\n\n1. **Calculate the total allowance received over 8 weeks**:\n   - Weekly allowance = $5\n   - Number of weeks = 8\n   - Total allowance = Weekly allowance \u00d7 Number of weeks = $5 \u00d7 8 = $40\n\n2. **Let the amount o"
+    },
+    {
+      "index": 70,
+      "correct_answer": 7425.0,
+      "model_answer": 7425.0,
+      "is_correct": true,
+      "raw": "To calculate how much money Judy makes in one week, we can break it down step by step:\n\n1. **Calculate the number of classes per week:**\n   - Weekdays: 5 classes/day * 5 days = 25 classes\n   - Saturday: 8 classes\n   - Total classes in a week = 25 + 8 = 33 classes\n\n2. **Calculate the total number of "
+    },
+    {
+      "index": 71,
+      "correct_answer": 60.0,
+      "model_answer": 60.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to determine the total number of instructions Kelian has to read for both recipes.\n\n1. The first recipe has 20 instructions.\n2. The second recipe has twice as many instructions as the first recipe. Therefore, the number of instructions for the second recipe is:\n   \\[\n  "
+    },
+    {
+      "index": 72,
+      "correct_answer": 221.0,
+      "model_answer": 221.0,
+      "is_correct": true,
+      "raw": "To find out how much money Tommy raises, we can calculate the total amount raised from selling brownies and cheesecakes separately and then sum them up.\n\n1. Calculate the total money raised from brownies:\n   - Number of brownies sold = 43\n   - Price per brownie = $3\n   - Total from brownies = 43 * 3"
+    },
+    {
+      "index": 73,
+      "correct_answer": 255.0,
+      "model_answer": 255.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will follow these steps:\n\n1. **Calculate the total cost of the cell phones**:\n   - Shiela bought 5 cell phones at $150 each.\n   - Total cost = 5 * 150 = $750.\n\n2. **Calculate the interest charged on the total cost**:\n   - The interest rate is 2%.\n   - Interest = Total cost *"
+    },
+    {
+      "index": 74,
+      "correct_answer": 88.0,
+      "model_answer": 88.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we first need to round the prices of the flowers to the nearest dollar:\n\n1. **Marigolds**: $2.74 rounds to $3.00\n2. **Petunias**: $1.87 rounds to $2.00\n3. **Begonias**: $2.12 rounds to $2.00\n\nNext, we calculate the total revenue from each type of flower:\n\n1. **Marigolds**: \n   "
+    },
+    {
+      "index": 75,
+      "correct_answer": 60.0,
+      "model_answer": 7.5,
+      "is_correct": false,
+      "raw": "To solve the problem, we need to determine the square footage of each level of the sandcastle and then find the average square footage.\n\n1. **Identify the square footage of each level:**\n   - Level 1 (top level): 16 square feet\n   - Level 2: Half of Level 1 = 16 / 2 = 8 square feet\n   - Level 3: Hal"
+    },
+    {
+      "index": 76,
+      "correct_answer": 5.0,
+      "model_answer": 5.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will break it down into steps:\n\n1. **Calculate the amount of dog food needed for the first 180 days:**\n   - Cecilia feeds the puppy 1 cup of dog food per day for the first 180 days.\n   - Total food for the first 180 days = 1 cup/day * 180 days = 180 cups.\n\n2. **Calculate the"
+    },
+    {
+      "index": 77,
+      "correct_answer": 100.0,
+      "model_answer": 100.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will follow these steps:\n\n1. **Determine how much laundry Sarah does**: \n   - Given that Sarah does 400 pounds of laundry.\n\n2. **Calculate how much laundry David does**: \n   - Since Sarah does 4 times as much laundry as David, we can set up the equation:\n     \\[\n     \\text{S"
+    },
+    {
+      "index": 78,
+      "correct_answer": 6.0,
+      "model_answer": 6.0,
+      "is_correct": true,
+      "raw": "To determine how much Vincent saves by buying 18 flowers at the better price, we will calculate the total cost for both purchasing options and then find the difference.\n\n1. **Calculate the cost of buying 18 flowers in packages of 3:**\n   - Each package contains 3 flowers and costs $2.50.\n   - To fin"
+    },
+    {
+      "index": 79,
+      "correct_answer": 70.0,
+      "model_answer": 100.0,
+      "is_correct": false,
+      "raw": "1. The original cost of grooming is $100.\n2. The discount offered is 30% of $100.\n3. Calculate the discount: \n   \\[\n   \\text{Discount} = 100 \\times 0.30 = 30\n   \\]\n4. Subtract the discount from the original cost to find the final cost:\n   \\[\n   \\text{Final Cost} = 100 - 30 = 70\n   \\]\n\nThe final groo"
+    },
+    {
+      "index": 80,
+      "correct_answer": 10.0,
+      "model_answer": 10.0,
+      "is_correct": true,
+      "raw": "Step 1: Calculate the amount of water each girl received.\nEach girl got \\( \\frac{1}{6} \\) of 24 liters.\n\\[\n\\text{Water per girl} = \\frac{1}{6} \\times 24 = 4 \\text{ liters}\n\\]\n\nStep 2: Calculate the total amount of water the two girls received.\n\\[\n\\text{Total water for girls} = 4 \\text{ liters} \\time"
+    },
+    {
+      "index": 81,
+      "correct_answer": 17.0,
+      "model_answer": 17.0,
+      "is_correct": true,
+      "raw": "1. Charlie starts with 10 stickers.\n2. He buys 21 stickers: \n   \\( 10 + 21 = 31 \\) stickers.\n3. He receives 23 stickers for his birthday: \n   \\( 31 + 23 = 54 \\) stickers.\n4. He gives 9 stickers to his sister: \n   \\( 54 - 9 = 45 \\) stickers.\n5. He uses 28 stickers to decorate a greeting card: \n   \\( "
+    },
+    {
+      "index": 82,
+      "correct_answer": 623.0,
+      "model_answer": 623.0,
+      "is_correct": true,
+      "raw": "1. Grace's weight = 125 pounds.\n2. Alex's weight = 4 * Grace's weight - 2 pounds.\n3. Calculate Alex's weight: \n   - 4 * 125 = 500\n   - 500 - 2 = 498 pounds.\n4. Combined weight = Grace's weight + Alex's weight.\n5. Combined weight = 125 + 498 = 623 pounds.\n\nFinal answer in JSON format: {\"final\": 623}"
+    },
+    {
+      "index": 83,
+      "correct_answer": 600.0,
+      "model_answer": 600.0,
+      "is_correct": true,
+      "raw": "To find the total number of thorns, we can follow these steps:\n\n1. Calculate the total number of roses:\n   - Dan plants 3 rose bushes, and each bush has 25 roses.\n   - Total roses = Number of bushes \u00d7 Roses per bush = 3 \u00d7 25 = 75 roses.\n\n2. Calculate the total number of thorns:\n   - Each rose has 8 "
+    },
+    {
+      "index": 84,
+      "correct_answer": 15.0,
+      "model_answer": 15.0,
+      "is_correct": true,
+      "raw": "Let's denote the number of games won as W and the number of games lost as L.\n\nFrom the problem, we have the following equations:\n\n1. The total number of games played is 22:\n   \\[\n   W + L = 22\n   \\]\n\n2. The team won 8 more games than they lost:\n   \\[\n   W = L + 8\n   \\]\n\nNow, we can substitute the se"
+    },
+    {
+      "index": 85,
+      "correct_answer": 44.0,
+      "model_answer": 44.0,
+      "is_correct": true,
+      "raw": "To find the total number of quilt blocks Gene has, we can follow these steps:\n\n1. Determine the number of years Gene has been vacationing:\n   - Current age: 34 years\n   - Starting age: 23 years\n   - Number of years vacationing = Current age - Starting age = 34 - 23 = 11 years\n\n2. Calculate the total"
+    },
+    {
+      "index": 86,
+      "correct_answer": 22.0,
+      "model_answer": 22.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to calculate the total number of times the alarm rang during the three instances it went off.\n\n1. **First Alarm**: \n   - The alarm rang 4 times.\n\n2. **Second Alarm**: \n   - The second time it rang for three times as long as the first time.\n   - Since the first time it r"
+    },
+    {
+      "index": 87,
+      "correct_answer": 9360.0,
+      "model_answer": 7920.0,
+      "is_correct": false,
+      "raw": "1. Initial monthly salary of Sylvie = $600.\n2. Annual salary = $600 * 12 = $7200.\n3. After 5 years, she is eligible for a 10% increase.\n4. Increase amount = 10% of $7200 = 0.10 * $7200 = $720.\n5. New annual salary after the first increase = $7200 + $720 = $7920.\n6. She will receive this new salary f"
+    },
+    {
+      "index": 88,
+      "correct_answer": 8000.0,
+      "model_answer": 8000.0,
+      "is_correct": true,
+      "raw": "Let the number of copies Harald sold be \\( x \\). \n\nAccording to the problem, Marilyn sold 10 times as many copies as Harald, which can be expressed as \\( 10x \\).\n\nThe total number of copies sold by both is given as 88,000. Therefore, we can set up the equation:\n\n\\[\nx + 10x = 88000\n\\]\n\nThis simplifie"
+    },
+    {
+      "index": 89,
+      "correct_answer": 24.0,
+      "model_answer": 18.0,
+      "is_correct": false,
+      "raw": "1. Calculate the expected number of attendees:\n   - Christina invited 16 friends.\n   - Since 1/4 of attendees don't show up, the expected number of attendees is:\n     \\[\n     \\text{Expected attendees} = 16 \\times \\left(1 - \\frac{1}{4}\\right) = 16 \\times \\frac{3}{4} = 12\n     \\]\n\n2. Calculate the num"
+    },
+    {
+      "index": 90,
+      "correct_answer": 225.0,
+      "model_answer": 225.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to calculate the total amount of potato salad required for both adults and children.\n\n1. **Calculate the amount of potato salad for adults:**\n   - Each adult eats 10 lbs of potato salad.\n   - There are 20 adults.\n   - Total for adults = 20 adults * 10 lbs/adult = 200 lb"
+    },
+    {
+      "index": 91,
+      "correct_answer": 28.0,
+      "model_answer": 28.0,
+      "is_correct": true,
+      "raw": "1. Determine the number of pets Cindy has:\n   - Cindy has 4 pets.\n\n2. Determine the number of pets Marcia has:\n   - Marcia has two more pets than Cindy.\n   - Marcia's pets = Cindy's pets + 2 = 4 + 2 = 6 pets.\n\n3. Determine the number of pets Jan has:\n   - Jan has three times the number of pets as Ma"
+    },
+    {
+      "index": 92,
+      "correct_answer": 4.0,
+      "model_answer": 4.0,
+      "is_correct": true,
+      "raw": "Let's denote the ages of the kids as follows:\n- Age of Jackson = J\n- Age of Amy = A\n- Age of Corey = C\n- Age of James = M\n\nFrom the problem, we have the following relationships:\n1. A = J + 5 (Amy is 5 years older than Jackson)\n2. A = C - 2 (Amy is 2 years younger than Corey)\n3. M = 10 (James is 10 y"
+    },
+    {
+      "index": 93,
+      "correct_answer": 36.0,
+      "model_answer": 36.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will follow these steps:\n\n1. **Determine Gerald's original time**: \n   Since Lee runs the 400-meter hurdles in 38 seconds and is 2 seconds faster than Gerald, we can find Gerald's original time:\n   \\[\n   \\text{Gerald's original time} = \\text{Lee's time} + 2 = 38 + 2 = 40 \\te"
+    },
+    {
+      "index": 94,
+      "correct_answer": 348.0,
+      "model_answer": 348.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we can break it down step by step:\n\n1. **Identify the number of dogs**: \n   - Given that the number of dogs is 60.\n\n2. **Determine the number of cats**: \n   - It is stated that there are two cats for every dog. \n   - Therefore, the number of cats = 2 * number of dogs = 2 * 60 ="
+    },
+    {
+      "index": 95,
+      "correct_answer": 40.0,
+      "model_answer": 40.0,
+      "is_correct": true,
+      "raw": "```json\n{\n  \"final\": 40\n}\n```"
+    },
+    {
+      "index": 96,
+      "correct_answer": 3.0,
+      "model_answer": 3.0,
+      "is_correct": true,
+      "raw": "Step 1: Determine how many hours James slept.\nJames slept 2/3 of what Harry slept. Since Harry slept 9 hours, we calculate:\n\nJames's sleep = (2/3) * 9 = 6 hours.\n\nStep 2: Calculate how many more hours Harry slept than James.\nTo find the difference in sleep hours:\n\nDifference = Harry's sleep - James'"
+    },
+    {
+      "index": 97,
+      "correct_answer": 12.0,
+      "model_answer": 12.0,
+      "is_correct": true,
+      "raw": "To find out how many tomatoes Freda used, we can follow these steps:\n\n1. **Determine the volume of tomatoes used**: Since the canned tomatoes lose half their volume when cooked into sauce, we can calculate the volume of tomatoes needed to make 32 ounces of sauce. If the sauce is 32 ounces, then the "
+    },
+    {
+      "index": 98,
+      "correct_answer": 5.0,
+      "model_answer": 5.0,
+      "is_correct": true,
+      "raw": "Let's break down the problem step by step:\n\n1. **Initial number of cars**: There are originally 30 cars on the motorway.\n\n2. **Cars that take an exit**: 5 cars take an exit, which means they do not drive through the traffic jam. \n\n   \\[\n   \\text{Remaining cars} = 30 - 5 = 25\n   \\]\n\n3. **Cars that dr"
+    },
+    {
+      "index": 99,
+      "correct_answer": 58.0,
+      "model_answer": 38.0,
+      "is_correct": false,
+      "raw": "```json\n{\n  \"final\": 38\n}\n```"
+    }
+  ],
+  "run2_50_99": [
+    {
+      "index": 50,
+      "correct_answer": 294.0,
+      "model_answer": 294.0,
+      "is_correct": true,
+      "raw": "To find out how much Lloyd makes on eggs per week, we can follow these steps:\n\n1. **Calculate the total number of eggs produced in a week:**\n   - Eggs produced per day = 252\n   - Days in a week = 7\n   - Total eggs per week = 252 eggs/day * 7 days/week = 1764 eggs/week\n\n2. **Convert the total number "
+    },
+    {
+      "index": 51,
+      "correct_answer": 5.0,
+      "model_answer": 5.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we first need to determine the distance Tom travels from 1 PM to 4 PM.\n\n1. **Calculate the time spent sailing from 1 PM to 4 PM:**\n   - Time = 4 PM - 1 PM = 3 hours\n\n2. **Calculate the distance traveled during this time:**\n   - Speed = 10 miles per hour\n   - Distance = Speed \u00d7 "
+    },
+    {
+      "index": 52,
+      "correct_answer": 15.0,
+      "model_answer": 15.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will follow these steps:\n\n1. **Calculate the weight of the comic books Uriah removes**:\n   - Each comic book weighs 1/4 pound.\n   - If he removes 30 comic books, the total weight removed from comic books is:\n     \\[\n     \\text{Weight from comic books} = 30 \\times \\frac{1}{4}"
+    },
+    {
+      "index": 53,
+      "correct_answer": 40.0,
+      "model_answer": 40.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will calculate the revenue earned by the mechanic on both Thursday and Friday, and then find the difference between the two days.\n\n**Step 1: Calculate Thursday's Revenue**\n- Truck tires repaired: 6\n- Charge per truck tire: $60\n- Revenue from truck tires: \\( 6 \\times 60 = 360"
+    },
+    {
+      "index": 54,
+      "correct_answer": 40.0,
+      "model_answer": 40.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to calculate the total number of kittens the Doubtfire family has after considering the kittens from their house cats.\n\n1. The Doubtfire sisters have adopted 7 kittens.\n2. Patchy, the first house cat, has had thrice the number of adopted kittens:\n   - Number of kittens "
+    },
+    {
+      "index": 55,
+      "correct_answer": 14.0,
+      "model_answer": 14.0,
+      "is_correct": true,
+      "raw": "Step 1: Calculate the number of lollipops Jean has after eating 2.\n- Initial lollipops = 30\n- Lollipops eaten = 2\n- Remaining lollipops = 30 - 2 = 28\n\nStep 2: Determine how many bags Jean can fill with the remaining lollipops.\n- Each bag contains 2 lollipops.\n- Number of bags = Remaining lollipops /"
+    },
+    {
+      "index": 56,
+      "correct_answer": 3.0,
+      "model_answer": 3.0,
+      "is_correct": true,
+      "raw": "To determine how many times Peter can go to the movies, we first need to calculate the total cost for one trip to the movies, which includes the ticket and popcorn.\n\n1. Cost of a ticket: $7\n2. Cost of popcorn: $7\n3. Total cost for one trip: $7 (ticket) + $7 (popcorn) = $14\n\nNext, we need to find out"
+    },
+    {
+      "index": 57,
+      "correct_answer": 83.0,
+      "model_answer": 83.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to determine how many boxes can be added to the truck without exceeding the bridge's weight limit.\n\n1. **Identify the weight limit of the bridge**: \n   - The bridge can carry a maximum of 5000 pounds.\n\n2. **Determine the weight of the truck and driver**: \n   - The combi"
+    },
+    {
+      "index": 58,
+      "correct_answer": 57.0,
+      "model_answer": 57.0,
+      "is_correct": true,
+      "raw": "1. Start with the initial bill for groceries: $40.00.\n2. Calculate the 25% fee on the groceries:\n   - 25% of $40.00 = 0.25 * 40 = $10.00.\n3. Add the 25% fee to the initial bill:\n   - $40.00 + $10.00 = $50.00.\n4. Add the delivery fee of $3.00:\n   - $50.00 + $3.00 = $53.00.\n5. Add the tip of $4.00:\n  "
+    },
+    {
+      "index": 59,
+      "correct_answer": 187.0,
+      "model_answer": 187.0,
+      "is_correct": true,
+      "raw": "To find the total number of raspberries, we can break the problem down into two parts: the clusters of fruit and the individual fruit.\n\n1. **Calculate the total number of fruit in the clusters:**\n   - There are 6 clusters, and each cluster has 20 fruit.\n   - Total fruit in clusters = Number of clust"
+    },
+    {
+      "index": 60,
+      "correct_answer": 17.0,
+      "model_answer": 17.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will break it down step by step.\n\n1. **Total Oranges**: There are 25 oranges in total.\n2. **Bad Oranges**: There is 1 bad orange.\n3. **Unripe Oranges**: 20% of the oranges are unripe. \n   - Calculate 20% of 25: \n     \\[\n     0.20 \\times 25 = 5 \\text{ unripe oranges}\n     \\]\n"
+    },
+    {
+      "index": 61,
+      "correct_answer": 1430.0,
+      "model_answer": 1430.0,
+      "is_correct": true,
+      "raw": "1. Calculate the total cost of the material and construction:\n   - Material cost: $500\n   - Construction cost: $800\n   - Total cost = Material cost + Construction cost = $500 + $800 = $1300\n\n2. Calculate the insurance cost:\n   - Insurance cost = 10% of total cost = 0.10 * $1300 = $130\n\n3. Calculate "
+    },
+    {
+      "index": 62,
+      "correct_answer": 25000.0,
+      "model_answer": 50000.0,
+      "is_correct": false,
+      "raw": "To solve the problem, we need to determine Marcy's annual pension after she quits after 30 years of service.\n\n1. **Initial Pension**: Marcy's annual pension after 40 years is $50,000.\n\n2. **Entitlement After 20 Years**: After 20 years, Marcy becomes entitled to 5% of the value of the pension per yea"
+    },
+    {
+      "index": 63,
+      "correct_answer": 1596.0,
+      "model_answer": 1596.0,
+      "is_correct": true,
+      "raw": "1. Calculate the amount charged for the first half of the year (6 months):\n   - Monthly charge = $140\n   - Total for 6 months = 6 * $140 = $840\n\n2. Calculate the amount charged for the second half of the year (6 months) with a 10% discount:\n   - 10% of $140 = 0.10 * $140 = $14\n   - Discounted monthl"
+    },
+    {
+      "index": 64,
+      "correct_answer": 300.0,
+      "model_answer": 300.0,
+      "is_correct": true,
+      "raw": "To find out how many miles Sophia can drive on a single tank of gas, we can follow these steps:\n\n1. **Determine the fuel efficiency (miles per gallon)**:\n   - Sophia has traveled 100 miles and used 4 gallons of gas.\n   - Fuel efficiency = Total miles traveled / Gallons used\n   - Fuel efficiency = 10"
+    },
+    {
+      "index": 65,
+      "correct_answer": 36.0,
+      "model_answer": 36.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will break it down step by step.\n\n1. **Time spent watching TV in one session**: Jim spends 2 hours watching TV.\n2. **Time spent reading in one session**: He reads for half as long as he watches TV, which is:\n   \\[\n   \\text{Reading time} = \\frac{2 \\text{ hours}}{2} = 1 \\text{"
+    },
+    {
+      "index": 66,
+      "correct_answer": 48.0,
+      "model_answer": 48.0,
+      "is_correct": true,
+      "raw": "To find the total number of people sent by the four schools to the basketball tournament, we can break it down step by step:\n\n1. **Teams per School**: Each school has sent a girls' basketball team and a boys' basketball team. Therefore, each school has:\n   - 1 girls' team\n   - 1 boys' team\n\n   This "
+    },
+    {
+      "index": 67,
+      "correct_answer": 595.0,
+      "model_answer": 595.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will break it down step by step:\n\n1. **Diamonds**: The number of diamonds is given as 175.\n\n2. **Rubies**: The number of rubies is 35 fewer than the number of diamonds. \n   \\[\n   \\text{Rubies} = \\text{Diamonds} - 35 = 175 - 35 = 140\n   \\]\n\n3. **Emeralds**: The number of emer"
+    },
+    {
+      "index": 68,
+      "correct_answer": 36.0,
+      "model_answer": 36.0,
+      "is_correct": true,
+      "raw": "Step 1: Determine the number of boys.\n- Given that there are 60 girls and there are twice as many boys as girls:\n  Number of boys = 2 * Number of girls = 2 * 60 = 120 boys.\n\nStep 2: Calculate the total number of students.\n- Total students = Number of boys + Number of girls = 120 + 60 = 180 students."
+    },
+    {
+      "index": 69,
+      "correct_answer": 60.0,
+      "model_answer": 60.0,
+      "is_correct": true,
+      "raw": "To find out how much money Bailey started with, we can break down the problem step by step.\n\n1. **Calculate the total allowance received over 8 weeks**:\n   - Weekly allowance = $5\n   - Number of weeks = 8\n   - Total allowance = Weekly allowance \u00d7 Number of weeks = $5 \u00d7 8 = $40\n\n2. **Let the amount o"
+    },
+    {
+      "index": 70,
+      "correct_answer": 7425.0,
+      "model_answer": 7425.0,
+      "is_correct": true,
+      "raw": "To calculate how much money Judy makes in one week, we can break it down step by step:\n\n1. **Calculate the number of classes per week:**\n   - Weekdays: 5 classes/day * 5 days = 25 classes\n   - Saturday: 8 classes\n   - Total classes per week = 25 + 8 = 33 classes\n\n2. **Calculate the total number of s"
+    },
+    {
+      "index": 71,
+      "correct_answer": 60.0,
+      "model_answer": 60.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to determine the total number of instructions Kelian has to read for both recipes.\n\n1. The first recipe has 20 instructions.\n2. The second recipe has twice as many instructions as the first recipe. Therefore, the number of instructions for the second recipe is:\n   \\[\n  "
+    },
+    {
+      "index": 72,
+      "correct_answer": 221.0,
+      "model_answer": 221.0,
+      "is_correct": true,
+      "raw": "To find out how much money Tommy raises, we can calculate the total revenue from selling brownies and cheesecakes separately and then sum them up.\n\n1. Calculate the revenue from brownies:\n   - Price per brownie = $3\n   - Number of brownies sold = 43\n   - Revenue from brownies = Price per brownie * N"
+    },
+    {
+      "index": 73,
+      "correct_answer": 255.0,
+      "model_answer": 255.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will follow these steps:\n\n1. **Calculate the total cost of the cell phones**:\n   - Shiela bought 5 cell phones at $150 each.\n   - Total cost = 5 * 150 = $750.\n\n2. **Calculate the interest charged on the total cost**:\n   - The interest rate is 2%.\n   - Interest = Total cost *"
+    },
+    {
+      "index": 74,
+      "correct_answer": 88.0,
+      "model_answer": 88.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will first round the prices of each type of flower to the nearest dollar and then calculate the total revenue from selling the pots.\n\n1. **Rounding the Prices:**\n   - Marigolds: $2.74 rounds to $3.00\n   - Petunias: $1.87 rounds to $2.00\n   - Begonias: $2.12 rounds to $2.00\n\n"
+    },
+    {
+      "index": 75,
+      "correct_answer": 60.0,
+      "model_answer": 7.5,
+      "is_correct": false,
+      "raw": "To solve the problem, we need to determine the square footage of each level of the sandcastle and then find the average square footage.\n\n1. **Identify the square footage of each level:**\n   - Level 1 (top level): 16 square feet\n   - Level 2: Half of Level 1 = 16 / 2 = 8 square feet\n   - Level 3: Hal"
+    },
+    {
+      "index": 76,
+      "correct_answer": 5.0,
+      "model_answer": 5.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to calculate the total amount of dog food Cecilia will use in the first year (365 days) and then determine how many bags of dog food she will need.\n\n1. **Calculate the amount of dog food for the first 180 days:**\n   - Daily food requirement for the first 180 days = 1 cu"
+    },
+    {
+      "index": 77,
+      "correct_answer": 100.0,
+      "model_answer": 100.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will follow these steps:\n\n1. **Determine how much laundry Sarah does**: \n   - Given that Sarah does 400 pounds of laundry.\n\n2. **Calculate how much laundry David does**: \n   - Since Sarah does 4 times as much laundry as David, we can set up the equation:\n     \\[\n     \\text{S"
+    },
+    {
+      "index": 78,
+      "correct_answer": 6.0,
+      "model_answer": 6.0,
+      "is_correct": true,
+      "raw": "To determine how much money Vincent saves by buying 18 flowers at the better price, we will calculate the total cost for both purchasing options.\n\n1. **Cost of flowers in packages of 3:**\n   - Each package contains 3 flowers and costs $2.50.\n   - To find out how many packages are needed for 18 flowe"
+    },
+    {
+      "index": 79,
+      "correct_answer": 70.0,
+      "model_answer": 100.0,
+      "is_correct": false,
+      "raw": "1. The original cost of grooming is $100.\n2. The discount offered is 30% of $100.\n3. Calculate the discount: \n   \\[\n   \\text{Discount} = 100 \\times 0.30 = 30\n   \\]\n4. Subtract the discount from the original cost to find the final cost:\n   \\[\n   \\text{Final Cost} = 100 - 30 = 70\n   \\]\n\nThe final cost"
+    },
+    {
+      "index": 80,
+      "correct_answer": 10.0,
+      "model_answer": 10.0,
+      "is_correct": true,
+      "raw": "Step 1: Calculate the amount of water each girl received.\nEach girl got \\( \\frac{1}{6} \\) of 24 liters.\n\\[\n\\text{Water per girl} = \\frac{1}{6} \\times 24 = 4 \\text{ liters}\n\\]\n\nStep 2: Calculate the total amount of water the two girls received.\n\\[\n\\text{Total water for girls} = 4 \\text{ liters} \\time"
+    },
+    {
+      "index": 81,
+      "correct_answer": 17.0,
+      "model_answer": 17.0,
+      "is_correct": true,
+      "raw": "1. Charlie starts with 10 stickers.\n2. He buys 21 stickers: \n   \\( 10 + 21 = 31 \\) stickers.\n3. He receives 23 stickers for his birthday: \n   \\( 31 + 23 = 54 \\) stickers.\n4. He gives 9 stickers to his sister: \n   \\( 54 - 9 = 45 \\) stickers.\n5. He uses 28 stickers to decorate a greeting card: \n   \\( "
+    },
+    {
+      "index": 82,
+      "correct_answer": 623.0,
+      "model_answer": 623.0,
+      "is_correct": true,
+      "raw": "1. Grace's weight = 125 pounds.\n2. Alex's weight = 4 * Grace's weight - 2 pounds.\n3. Calculate Alex's weight: \n   - 4 * 125 = 500\n   - 500 - 2 = 498 pounds.\n4. Combined weight = Grace's weight + Alex's weight.\n5. Combined weight = 125 + 498 = 623 pounds.\n\nFinal answer in JSON format: {\"final\": 623}"
+    },
+    {
+      "index": 83,
+      "correct_answer": 600.0,
+      "model_answer": 600.0,
+      "is_correct": true,
+      "raw": "To find the total number of thorns, we can follow these steps:\n\n1. Calculate the total number of roses:\n   - Dan plants 3 rose bushes.\n   - Each rose bush has 25 roses.\n   - Total roses = Number of bushes \u00d7 Roses per bush = 3 \u00d7 25 = 75 roses.\n\n2. Calculate the total number of thorns:\n   - Each rose "
+    },
+    {
+      "index": 84,
+      "correct_answer": 15.0,
+      "model_answer": 15.0,
+      "is_correct": true,
+      "raw": "Let's denote the number of games won as W and the number of games lost as L.\n\nFrom the problem, we have the following equations:\n\n1. The total number of games played is 22:\n   \\[\n   W + L = 22\n   \\]\n\n2. The team won 8 more games than they lost:\n   \\[\n   W = L + 8\n   \\]\n\nNow, we can substitute the se"
+    },
+    {
+      "index": 85,
+      "correct_answer": 44.0,
+      "model_answer": 44.0,
+      "is_correct": true,
+      "raw": "To find the total number of quilt blocks Gene has, we can follow these steps:\n\n1. Determine the number of years Gene has been vacationing:\n   - Current age: 34 years\n   - Age when he started vacationing: 23 years\n   - Total years of vacationing = Current age - Age when he started = 34 - 23 = 11 year"
+    },
+    {
+      "index": 86,
+      "correct_answer": 22.0,
+      "model_answer": 22.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to calculate the total number of times the alarm rang during the three instances it went off.\n\n1. **First Alarm**: \n   - The alarm rang 4 times.\n\n2. **Second Alarm**: \n   - The second time it rang for three times as long as the first time. \n   - Since the first time it "
+    },
+    {
+      "index": 87,
+      "correct_answer": 9360.0,
+      "model_answer": 7920.0,
+      "is_correct": false,
+      "raw": "1. **Initial Monthly Salary**: Sylvie's initial monthly salary is $600.\n\n2. **Annual Salary Calculation**: \n   - Annual salary = Monthly salary \u00d7 12\n   - Annual salary = $600 \u00d7 12 = $7200\n\n3. **Salary Increase Policy**: \n   - After 5 years, Sylvie is eligible for a 10% increase on her initial salary"
+    },
+    {
+      "index": 88,
+      "correct_answer": 8000.0,
+      "model_answer": 8000.0,
+      "is_correct": true,
+      "raw": "Let the number of copies Harald sold be \\( x \\). \n\nAccording to the problem, Marilyn sold 10 times as many copies as Harald, so she sold \\( 10x \\).\n\nThe total number of copies sold by both is given as 88,000. Therefore, we can set up the equation:\n\n\\[\nx + 10x = 88000\n\\]\n\nThis simplifies to:\n\n\\[\n11x "
+    },
+    {
+      "index": 89,
+      "correct_answer": 24.0,
+      "model_answer": 18.0,
+      "is_correct": false,
+      "raw": "1. Calculate the expected number of attendees:\n   - Christina invited 16 friends.\n   - Since 1/4 of attendees don't show up, the expected number of attendees is:\n     \\[\n     \\text{Expected attendees} = 16 \\times \\left(1 - \\frac{1}{4}\\right) = 16 \\times \\frac{3}{4} = 12\n     \\]\n\n2. Calculate the num"
+    },
+    {
+      "index": 90,
+      "correct_answer": 225.0,
+      "model_answer": 225.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to calculate the total amount of potato salad required for both adults and children.\n\n1. **Calculate the amount of potato salad needed for adults:**\n   - Each adult eats 10 lbs of potato salad.\n   - There are 20 adults.\n   - Total for adults = 20 adults * 10 lbs/adult ="
+    },
+    {
+      "index": 91,
+      "correct_answer": 28.0,
+      "model_answer": 28.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will break it down step by step.\n\n1. **Determine the number of pets Cindy has**: \n   - Cindy has 4 pets.\n\n2. **Determine the number of pets Marcia has**: \n   - Marcia has two more pets than Cindy.\n   - Therefore, Marcia's pets = Cindy's pets + 2 = 4 + 2 = 6 pets.\n\n3. **Deter"
+    },
+    {
+      "index": 92,
+      "correct_answer": 4.0,
+      "model_answer": 4.0,
+      "is_correct": true,
+      "raw": "Let's denote the ages of the kids as follows:\n- Age of Jackson = J\n- Age of Amy = A\n- Age of Corey = C\n- Age of James = M\n\nFrom the problem, we have the following relationships:\n1. A = J + 5 (Amy is 5 years older than Jackson)\n2. A = C - 2 (Amy is 2 years younger than Corey)\n3. M = 10 (James is 10 y"
+    },
+    {
+      "index": 93,
+      "correct_answer": 36.0,
+      "model_answer": 36.36,
+      "is_correct": false,
+      "raw": "To solve the problem, we will follow these steps:\n\n1. **Determine Gerald's original time**: \n   Since Lee runs the 400-meter hurdles in 38 seconds and is 2 seconds faster than Gerald, we can find Gerald's original time:\n   \\[\n   \\text{Gerald's original time} = \\text{Lee's time} + 2 \\text{ seconds} ="
+    },
+    {
+      "index": 94,
+      "correct_answer": 348.0,
+      "model_answer": 348.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we can break it down step by step:\n\n1. **Identify the number of dogs**: \n   - Given that the number of dogs is 60.\n\n2. **Determine the number of cats**: \n   - It is stated that there are two cats for every dog. \n   - Therefore, the number of cats = 2 * number of dogs = 2 * 60 ="
+    },
+    {
+      "index": 95,
+      "correct_answer": 40.0,
+      "model_answer": 40.0,
+      "is_correct": true,
+      "raw": "Step 1: Calculate the number of boys.\n- Total students = 200\n- Fraction of boys = 2/5\n- Number of boys = (2/5) * 200 = 80\n\nStep 2: Calculate the number of girls.\n- Number of girls = Total students - Number of boys = 200 - 80 = 120\n\nStep 3: Calculate the number of girls in the girl scout.\n- Fraction "
+    },
+    {
+      "index": 96,
+      "correct_answer": 3.0,
+      "model_answer": 3.0,
+      "is_correct": true,
+      "raw": "1. Determine how many hours James slept:\n   - James slept 2/3 of what Harry slept.\n   - Harry slept 9 hours.\n   - James's sleep = (2/3) * 9 = 6 hours.\n\n2. Calculate how many more hours Harry slept than James:\n   - Difference = Harry's sleep - James's sleep = 9 hours - 6 hours = 3 hours.\n\nFinal answe"
+    },
+    {
+      "index": 97,
+      "correct_answer": 12.0,
+      "model_answer": 12.0,
+      "is_correct": true,
+      "raw": "To find out how many tomatoes Freda used, we can follow these steps:\n\n1. **Determine the volume of tomatoes needed to make 32 ounces of sauce**: Since the tomatoes lose half their volume when cooked, Freda must have started with double the volume of sauce she ended up with. Therefore, to make 32 oun"
+    },
+    {
+      "index": 98,
+      "correct_answer": 5.0,
+      "model_answer": 5.0,
+      "is_correct": true,
+      "raw": "Let's break down the problem step by step:\n\n1. **Initial number of cars**: There are originally 30 cars on the motorway.\n\n2. **Cars that took an exit**: 5 cars take an exit, which means they do not drive through the traffic jam. \n\n   \\[\n   \\text{Remaining cars} = 30 - 5 = 25\n   \\]\n\n3. **Cars that dr"
+    },
+    {
+      "index": 99,
+      "correct_answer": 58.0,
+      "model_answer": 58.0,
+      "is_correct": true,
+      "raw": "Step 1: Calculate the total number of potted plants Mary currently has.\n- She has 2 potted plants on each of the 40 window ledges.\n- Total potted plants = 2 plants/ledge * 40 ledges = 80 plants.\n\nStep 2: Add the new potted plants she received.\n- Total potted plants after receiving new ones = 80 plan"
+    }
+  ],
+  "sanity_0_49": [
+    {
+      "index": 0,
+      "correct_answer": 18.0,
+      "model_answer": 18.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will follow these steps:\n\n1. **Calculate the total number of eggs laid by Janet's ducks per day**: \n   - Janet's ducks lay 16 eggs per day.\n\n2. **Calculate the number of eggs Janet consumes**:\n   - She eats 3 eggs for breakfast.\n   - She uses 4 eggs for baking muffins.\n   - "
+    },
+    {
+      "index": 1,
+      "correct_answer": 3.0,
+      "model_answer": 3.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to determine the total number of bolts of fiber used for the robe.\n\n1. **Blue Fiber**: The robe requires 2 bolts of blue fiber.\n2. **White Fiber**: The robe requires half the amount of white fiber compared to blue fiber. Since it takes 2 bolts of blue fiber, it will tak"
+    },
+    {
+      "index": 2,
+      "correct_answer": 70000.0,
+      "model_answer": 70000.0,
+      "is_correct": true,
+      "raw": "1. Calculate the total cost of the house:\n   - Purchase price: $80,000\n   - Repair costs: $50,000\n   - Total cost = Purchase price + Repair costs = $80,000 + $50,000 = $130,000\n\n2. Calculate the increased value of the house:\n   - Increase in value = 150% of the purchase price\n   - Increased value = "
+    },
+    {
+      "index": 3,
+      "correct_answer": 540.0,
+      "model_answer": 540.0,
+      "is_correct": true,
+      "raw": "To find the total meters James runs in a week, we can break it down step by step:\n\n1. **Calculate the distance run in one sprint**: James runs 60 meters in one sprint.\n   \n2. **Calculate the total distance run in one session of sprints**: He runs 3 sprints in one session.\n   \\[\n   \\text{Distance per"
+    },
+    {
+      "index": 4,
+      "correct_answer": 20.0,
+      "model_answer": 20.0,
+      "is_correct": true,
+      "raw": "To find out how many cups of feed Wendi needs to give her chickens in the final meal of the day, we can follow these steps:\n\n1. **Calculate the total amount of feed needed for the day**:\n   Each chicken gets 3 cups of feed per day. Since Wendi has 20 chickens, the total feed needed for the day is:\n "
+    },
+    {
+      "index": 5,
+      "correct_answer": 64.0,
+      "model_answer": 64.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to calculate the total cost of 16 glasses, considering the pricing structure.\n\n1. **Cost of the first glass**: $5\n2. **Cost of the second glass**: 60% of $5 = 0.6 * 5 = $3\n3. **Cost of the third glass**: $5\n4. **Cost of the fourth glass**: 60% of $5 = $3\n5. **This patte"
+    },
+    {
+      "index": 6,
+      "correct_answer": 260.0,
+      "model_answer": 260.0,
+      "is_correct": true,
+      "raw": "Let's denote the number of sheep in each city as follows:\n\n- Let \\( S \\) be the number of sheep in Seattle.\n- Let \\( C \\) be the number of sheep in Charleston.\n- Let \\( T \\) be the number of sheep in Toulouse.\n\nFrom the problem, we know:\n\n1. Seattle has 20 sheep: \n   \\[\n   S = 20\n   \\]\n\n2. Charlesto"
+    },
+    {
+      "index": 7,
+      "correct_answer": 160.0,
+      "model_answer": 120.0,
+      "is_correct": false,
+      "raw": "To solve the problem, we will break it down into steps:\n\n1. **Calculate the total download time without interruption:**\n   - Carla's download speed is 2 GB/minute.\n   - The total file size is 200 GB.\n   - Time to download the entire file without interruption = Total file size / Download speed = 200 "
+    },
+    {
+      "index": 8,
+      "correct_answer": 45.0,
+      "model_answer": 45.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will break it down into steps:\n\n1. **Calculate the distance John drove away from home:**\n   - John drives for 3 hours at a speed of 60 mph.\n   - Distance = Speed \u00d7 Time = 60 mph \u00d7 3 hours = 180 miles.\n\n2. **Calculate the time spent trying to return home:**\n   - John tries to"
+    },
+    {
+      "index": 9,
+      "correct_answer": 460.0,
+      "model_answer": 70.0,
+      "is_correct": false,
+      "raw": "{\n  \"regular_hours\": 40,\n  \"overtime_hours\": 5,\n  \"regular_rate\": 10,\n  \"overtime_rate\": 10 * 1.2,\n  \"regular_earnings\": 40 * 10,\n  \"overtime_earnings\": 5 * (10 * 1.2),\n  \"total_earnings\": (40 * 10) + (5 * (10 * 1.2)),\n  \"final\": 70\n}"
+    },
+    {
+      "index": 10,
+      "correct_answer": 366.0,
+      "model_answer": 120.0,
+      "is_correct": false,
+      "raw": "{\n  \"final\": 120\n}"
+    },
+    {
+      "index": 11,
+      "correct_answer": 694.0,
+      "model_answer": 694.0,
+      "is_correct": true,
+      "raw": "To find the total cost of the pastries Toula bought, we will calculate the cost for each type of pastry separately and then sum them up.\n\n1. **Cost of Donuts**:\n   - Quantity: 3 dozen\n   - Cost per dozen: $68\n   - Total cost for donuts = 3 * $68 = $204\n\n2. **Cost of Mini Cupcakes**:\n   - Quantity: 2"
+    },
+    {
+      "index": 12,
+      "correct_answer": 13.0,
+      "model_answer": 12.0,
+      "is_correct": false,
+      "raw": "To determine how many years it will take for Carlos to start earning money from the lemon tree, we can break down the costs and revenues as follows:\n\n1. **Initial Cost**: The cost to plant the lemon tree is $90.\n\n2. **Annual Revenue**: Each year, the tree produces 7 lemons, and each lemon sells for "
+    },
+    {
+      "index": 13,
+      "correct_answer": 18.0,
+      "model_answer": 18.0,
+      "is_correct": true,
+      "raw": "Let's denote the number of vacuum cleaners Melanie started with as \\( x \\).\n\n1. She sold a third of her vacuum cleaners at the green house:\n   \\[\n   \\text{Sold at green house} = \\frac{x}{3}\n   \\]\n   Remaining after green house:\n   \\[\n   \\text{Remaining} = x - \\frac{x}{3} = \\frac{2x}{3}\n   \\]\n\n2. She"
+    },
+    {
+      "index": 14,
+      "correct_answer": 60.0,
+      "model_answer": 60.0,
+      "is_correct": true,
+      "raw": "Step 1: Calculate the number of students enrolled in contemporary dance.\n- 20% of 20 students = 0.20 * 20 = 4 students.\n\nStep 2: Calculate the remaining students after contemporary dance.\n- Remaining students = Total students - Students in contemporary dance = 20 - 4 = 16 students.\n\nStep 3: Calculat"
+    },
+    {
+      "index": 15,
+      "correct_answer": 125.0,
+      "model_answer": 125.0,
+      "is_correct": true,
+      "raw": "To determine which purchase plan will yield a higher profit, we need to calculate the expected value of each investment after one month based on the projected market increases.\n\n1. **Calculate the expected value of the jewelry investment:**\n   - Initial value of jewelry = $5,000\n   - Expected increa"
+    },
+    {
+      "index": 16,
+      "correct_answer": 230.0,
+      "model_answer": 230.0,
+      "is_correct": true,
+      "raw": "To find the total distance covered by each train in two days, we can break it down into two parts: the distance traveled on the first day and the distance traveled on the second day.\n\n1. **Distance traveled on the first day**: \n   - Each train travels 80 miles westward.\n\n2. **Distance traveled on th"
+    },
+    {
+      "index": 17,
+      "correct_answer": 57500.0,
+      "model_answer": 57500.0,
+      "is_correct": true,
+      "raw": "To calculate Jill's annual salary, we need to find out how much she earns from both her teaching and coaching jobs.\n\n1. **Calculate the annual salary from teaching:**\n   - Hourly rate for teaching = $20\n   - Hours worked per week as a teacher = 35\n   - Weeks worked per year = 50\n\n   Annual salary fr"
+    },
+    {
+      "index": 18,
+      "correct_answer": 7.0,
+      "model_answer": 7.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to calculate the total number of eggs Claire will eat in 4 weeks.\n\n1. **Calculate the number of days in 4 weeks**:\n   - 1 week = 7 days\n   - 4 weeks = 4 * 7 = 28 days\n\n2. **Calculate the total number of eggs consumed in 28 days**:\n   - Claire makes a 3 egg omelet every "
+    },
+    {
+      "index": 19,
+      "correct_answer": 6.0,
+      "model_answer": 6.0,
+      "is_correct": true,
+      "raw": "To find the speed Marissa needs to walk the remaining distance, we can follow these steps:\n\n1. **Calculate the total time she wants to take to hike the entire trail:**\n   - The total distance of the trail is 12 miles.\n   - She wants an average speed of 4 miles per hour.\n   - Total time = Total dista"
+    },
+    {
+      "index": 20,
+      "correct_answer": 15.0,
+      "model_answer": 24.0,
+      "is_correct": false,
+      "raw": "To solve the problem, we will break it down step by step.\n\n1. **Calculate the amount of water in the orange drink:**\n   - The orange drink is 10 liters and is two-thirds water.\n   - Amount of water in the orange drink = (2/3) * 10 = 6.67 liters (approximately).\n\n2. **Calculate the amount of water in"
+    },
+    {
+      "index": 21,
+      "correct_answer": 14.0,
+      "model_answer": 14.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we can follow these steps:\n\n1. Determine Samantha's age: Samantha is currently 31 years old.\n2. Since Raymond was born 6 years before Samantha, we can calculate Raymond's age:\n   - Raymond's age = Samantha's age + 6 = 31 + 6 = 37 years old.\n3. Raymond had a son at the age of 23"
+    },
+    {
+      "index": 22,
+      "correct_answer": 7.0,
+      "model_answer": 7.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will calculate the total number of DVDs sold by Billy on Tuesday step by step.\n\n1. **First 3 customers**: Each buys 1 DVD.\n   - Total DVDs sold by first 3 customers = 3 customers * 1 DVD/customer = 3 DVDs.\n\n2. **Next 2 customers**: Each buys 2 DVDs.\n   - Total DVDs sold by n"
+    },
+    {
+      "index": 23,
+      "correct_answer": 8.0,
+      "model_answer": 8.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to determine how many hours the candle burns from 1:00 PM to 5:00 PM.\n\n1. Calculate the total time the candle burns:\n   - From 1:00 PM to 5:00 PM is 4 hours.\n\n2. Determine how much the candle melts in that time:\n   - The candle melts 2 centimeters every hour.\n   - There"
+    },
+    {
+      "index": 24,
+      "correct_answer": 26.0,
+      "model_answer": 26.0,
+      "is_correct": true,
+      "raw": "To find the original price of the book, we can use the formula for calculating the price after a discount:\n\nLet \\( P \\) be the original price of the book.\n\nThe discount is 25%, which means Kyle paid 75% of the original price. Therefore, we can express this as:\n\n\\[\n0.75P = 19.50\n\\]\n\nTo find \\( P \\), "
+    },
+    {
+      "index": 25,
+      "correct_answer": 2.0,
+      "model_answer": 2.0,
+      "is_correct": true,
+      "raw": "To find out how many boxes of pizza Marie ordered, we can follow these steps:\n\n1. **Calculate the total cost of the chicken meal:**\n   - Chicken meal cost = $12\n\n2. **Calculate the total cost of the milk:**\n   - Cost of 5 packs of milk = 5 * $3 = $15\n\n3. **Calculate the total cost of the apples:**\n "
+    },
+    {
+      "index": 26,
+      "correct_answer": 243.0,
+      "model_answer": 243.0,
+      "is_correct": true,
+      "raw": "To find out how much Mishka spent on all the clothing items, we can calculate the total cost for each type of clothing and then sum them up.\n\n1. **Calculate the cost of shorts:**\n   - Cost of one pair of shorts = $16.50\n   - Number of pairs of shorts = 3\n   - Total cost for shorts = 3 * $16.50 = $49"
+    },
+    {
+      "index": 27,
+      "correct_answer": 16.0,
+      "model_answer": 16.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will follow these steps:\n\n1. **Determine the number of servings Cynthia eats in 60 days**:\n   - Cynthia eats 1 serving of ice cream every night.\n   - In 60 days, she will eat:\n     \\[\n     60 \\text{ servings}\n     \\]\n\n2. **Determine how many cartons of ice cream she needs**:"
+    },
+    {
+      "index": 28,
+      "correct_answer": 25.0,
+      "model_answer": 25.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we can break it down into steps:\n\n1. **Total Distance of the Trip**: Henry's total bike trip is 60 miles.\n\n2. **First Stop**: He stops after 20 miles. \n\n3. **Distance Remaining After First Stop**: \n   - After the first stop, he has traveled 20 miles.\n   - Remaining distance to "
+    },
+    {
+      "index": 29,
+      "correct_answer": 104.0,
+      "model_answer": 104.0,
+      "is_correct": true,
+      "raw": "Let's denote the cost of the boots as \\( B \\).\n\nAccording to the problem, the cost of the two pairs of high heels together is five dollars less than the cost of the boots. \n\n1. The cost of the first pair of heels is $33.\n2. The cost of the second pair of heels is twice as much as the first pair, whi"
+    },
+    {
+      "index": 30,
+      "correct_answer": 109.0,
+      "model_answer": 109.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we start by defining the ages of Darrell and Allen based on the given ratio.\n\n1. Let Darrell's age be \\( 7x \\) and Allen's age be \\( 11x \\), where \\( x \\) is a common multiplier.\n2. According to the problem, their total age is 162:\n   \\[\n   7x + 11x = 162\n   \\]\n   \\[\n   18x = 1"
+    },
+    {
+      "index": 31,
+      "correct_answer": 80.0,
+      "model_answer": 80.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will first determine the guesses made by Gunter's friends based on the information provided.\n\n1. The first friend's guess is 80.\n2. The second friend's guess is 20 more than half of the first friend's guess:\n   - Half of the first guess: \\( \\frac{80}{2} = 40 \\)\n   - Second f"
+    },
+    {
+      "index": 32,
+      "correct_answer": 35.0,
+      "model_answer": 35.0,
+      "is_correct": true,
+      "raw": "To find out how many hours John spends taking care of the dogs in a week, we can follow these steps:\n\n1. Calculate the time spent on one dog per day:\n   - Each dog takes 0.5 hours.\n\n2. Calculate the total time spent on all dogs per day:\n   - Total time for 10 dogs = 10 dogs * 0.5 hours/dog = 5 hours"
+    },
+    {
+      "index": 33,
+      "correct_answer": 70.0,
+      "model_answer": 70.0,
+      "is_correct": true,
+      "raw": "Let's denote the number of silver coins as \\( S \\) and the number of gold coins as \\( G \\).\n\nFrom the problem, we have the following two equations:\n\n1. The total number of coins:\n   \\[\n   S + G = 110\n   \\]\n\n2. The relationship between gold and silver coins:\n   \\[\n   G = S + 30\n   \\]\n\nNow, we can sub"
+    },
+    {
+      "index": 34,
+      "correct_answer": 23.0,
+      "model_answer": 23.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will follow these steps:\n\n1. Determine how many jewels Aaron has based on Raymond's jewels.\n2. Calculate how many jewels Siobhan has based on Aaron's jewels.\n\nStep 1: Calculate Aaron's jewels.\n- Raymond has 40 jewels.\n- Aaron has 5 more jewels than half of Raymond's jewels.\n"
+    },
+    {
+      "index": 35,
+      "correct_answer": 9.0,
+      "model_answer": 9.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will follow these steps:\n\n1. **Points scored in the first 20 minutes**: Mike scores 4 points.\n2. **Points scored in the second 20 minutes**: He scores 25% more points than in the first 20 minutes.\n   - Calculate 25% of the points scored in the first 20 minutes:\n     \\[\n     "
+    },
+    {
+      "index": 36,
+      "correct_answer": 75.0,
+      "model_answer": 75.0,
+      "is_correct": true,
+      "raw": "1. Calculate the total number of yogurts Terry eats in 30 days:\n   \\[\n   \\text{Total yogurts} = 2 \\text{ yogurts/day} \\times 30 \\text{ days} = 60 \\text{ yogurts}\n   \\]\n\n2. Determine how many packs of yogurts Terry needs to buy:\n   \\[\n   \\text{Packs needed} = \\frac{60 \\text{ yogurts}}{4 \\text{ yogurt"
+    },
+    {
+      "index": 37,
+      "correct_answer": 2.0,
+      "model_answer": 0.0,
+      "is_correct": false,
+      "raw": "1. Calculate the total money John makes from selling his lego sets:\n   - He has 13 lego sets and sells each for $15.\n   - Total money from lego sets = 13 * 15 = $195.\n\n2. Calculate the total cost of the video games:\n   - He buys 8 video games for $20 each.\n   - Total cost of video games = 8 * 20 = $"
+    },
+    {
+      "index": 38,
+      "correct_answer": 10.0,
+      "model_answer": 10.0,
+      "is_correct": true,
+      "raw": "To find out how fast John runs, we can follow these steps:\n\n1. **Total Distance**: John runs a total of 60 miles in a week.\n\n2. **Days Running**: He runs 3 days a week.\n\n3. **Time Spent Running**:\n   - On the first day, he runs for 3 hours.\n   - On the other two days, he runs half as much time as th"
+    },
+    {
+      "index": 39,
+      "correct_answer": 18.0,
+      "model_answer": 18.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to determine Dana's walking speed, running speed, and then calculate the distance she can travel in six hours based on the time spent walking and running.\n\n1. **Determine Dana's running speed:**\n   - We know that Dana can skip at a speed of 3 miles per hour.\n   - The pr"
+    },
+    {
+      "index": 40,
+      "correct_answer": 8.0,
+      "model_answer": 8.0,
+      "is_correct": true,
+      "raw": "Let's denote the ages of the iPhones as follows:\n\n- Let S be the age of Suzy's iPhone.\n- Let B be the age of Ben's iPhone.\n- Let R be the age of Brandon's iPhone.\n\nFrom the problem, we know:\n\n1. Suzy's iPhone (S) is 1 year old.\n   \\[\n   S = 1\n   \\]\n\n2. Ben's iPhone (B) is two times older than Suzy's"
+    },
+    {
+      "index": 41,
+      "correct_answer": 200.0,
+      "model_answer": 200.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to determine how far Polly can throw the javelin when she is holding the sapphire gemstone.\n\n1. **Distance without the gemstone**: Polly can throw the javelin for a distance of 400 feet.\n\n2. **Distance with the gemstone**: When holding the sapphire gemstone, Polly can t"
+    },
+    {
+      "index": 42,
+      "correct_answer": 26.0,
+      "model_answer": 26.0,
+      "is_correct": true,
+      "raw": "{\"final\": 26}"
+    },
+    {
+      "index": 43,
+      "correct_answer": 48.0,
+      "model_answer": 48.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to determine how many grams of chips can be consumed given the remaining calorie allowance.\n\n1. **Determine remaining calories**: \n   - Daily calorie target = 2000 calories\n   - Calories already consumed = 1800 calories\n   - Remaining calories = 2000 - 1800 = 200 calori"
+    },
+    {
+      "index": 44,
+      "correct_answer": 20.0,
+      "model_answer": 20.0,
+      "is_correct": true,
+      "raw": "1. **Calculate the number of pounds of beeswax needed for 20 candles:**\n   - Since Charlie can make 10 candles from 1 pound of beeswax, to make 20 candles, he needs:\n     \\[\n     \\text{Pounds of beeswax} = \\frac{20 \\text{ candles}}{10 \\text{ candles/pound}} = 2 \\text{ pounds}\n     \\]\n\n2. **Calculate"
+    },
+    {
+      "index": 45,
+      "correct_answer": 104.0,
+      "model_answer": 104.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we will break it down step by step.\n\n1. **Calculate the number of articles written on each day:**\n   - On Monday, Meredith wrote 5 articles.\n   - On Tuesday, she wrote \\( \\frac{2}{5} \\) times more articles than on Monday. \n     - The number of articles written on Tuesday is:\n  "
+    },
+    {
+      "index": 46,
+      "correct_answer": 163.0,
+      "model_answer": 163.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we can break it down into steps:\n\n1. **Initial Post-it Notes**: Candice starts with 80 Post-it notes.\n2. **Post-it Notes Used**: She uses 1 Post-it note for each of the 220 cups of coffee. Therefore, the total number of Post-it notes used is:\n   \\[\n   220 \\text{ Post-it notes}\n"
+    },
+    {
+      "index": 47,
+      "correct_answer": 800.0,
+      "model_answer": 800.0,
+      "is_correct": true,
+      "raw": "1. Calculate the number of blue ties John bought:\n   - Cost of each blue tie = $40\n   - Total spent on blue ties = $200\n   - Number of blue ties = Total spent / Cost per blue tie = $200 / $40 = 5 blue ties\n\n2. Calculate the number of red ties John bought:\n   - John buys twice as many red ties as blu"
+    },
+    {
+      "index": 48,
+      "correct_answer": 8.0,
+      "model_answer": 8.0,
+      "is_correct": true,
+      "raw": "To solve the problem, we need to convert the length of the wire from feet to inches since the pieces are measured in inches.\n\n1. **Convert feet to inches**: \n   - 1 foot = 12 inches\n   - Therefore, 4 feet = 4 * 12 = 48 inches.\n\n2. **Determine the length of each piece**: \n   - Each piece of wire is 6"
+    },
+    {
+      "index": 49,
+      "correct_answer": 30.0,
+      "model_answer": 30.0,
+      "is_correct": true,
+      "raw": "To find the total number of unoccupied units in the building, we can follow these steps:\n\n1. **Calculate the total number of units in the building**:\n   - The building has 15 floors.\n   - Each floor has 8 units.\n   - Total units = Number of floors \u00d7 Units per floor = 15 \u00d7 8 = 120 units.\n\n2. **Calcul"
+    }
+  ]
+}

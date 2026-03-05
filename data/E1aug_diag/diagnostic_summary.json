@@ -1,0 +1,16 @@
+{
+  "original_e1_0_49": 0.94,
+  "original_e1aug_50_99": 0.44,
+  "rerun1_50_99": 0.88,
+  "rerun2_50_99": 0.88,
+  "sanity_0_49": 0.88,
+  "agreement_rate": 0.96,
+  "consistently_hard_problems": [
+    62,
+    75,
+    79,
+    87,
+    89
+  ],
+  "diagnosis": "not_reproducible"
+}
