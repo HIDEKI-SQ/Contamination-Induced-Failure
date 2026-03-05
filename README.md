@@ -21,15 +21,24 @@ This repository contains the experimental data, analysis code, and reproducibili
 ```
 Contamination-Induced-Failure/
 ├── data/
-│   ├── E1_E1b/              # Main experiment (n=50, indices 0-49)
-│   │   └── combined_summary.json
+│   ├── E1/                  # Main experiment round 1 (n=50, indices 0-49)
+│   │   ├── config.json
+│   │   └── trials.json
+│   ├── E1b/                 # Main experiment round 2 (n=50, indices 0-49)
+│   │   ├── combined_summary.json
+│   │   ├── config.json
+│   │   └── trials.json
 │   ├── E1aug/               # Augmentation experiment (n=50, indices 50-99)
-│   │   └── summary.json
+│   │   ├── config.json
+│   │   ├── summary.json
+│   │   └── trials.json
 │   ├── E3/                  # Social compliance battery
-│   │   └── compliance_index.json
+│   │   ├── compliance_index.json
+│   │   ├── config.json
+│   │   └── trials.json
 │   ├── E1aug_diag/          # Prompt sensitivity diagnostic
-│   │   ├── diagnostic_trials.json
-│   │   └── diagnostic_summary.json
+│   │   ├── diagnostic_summary.json
+│   │   └── diagnostic_trials.json
 │   └── merged_n100.json     # Merged n=100 dataset with 95% Wilson CIs
 ├── code/
 │   ├── E1aug_augmentation.ipynb
